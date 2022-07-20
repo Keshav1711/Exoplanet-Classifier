@@ -1,1 +1,2 @@
 # Exoplanet-Classifier
+Machine Learning Software that classifies exoplanets based on their likeliness to the planets of our solar system. Based on the principles of Supervised Learning, this machine learning software utilises Random Forest Classifier and Random Forest Regression. The machine learning software classifies exo-planets by their distance from the sun, Confirmed Moons, Provisional Moons, Total Moons, Volume (cubic kilometers) and planet's diameter.
